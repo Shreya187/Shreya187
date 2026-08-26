@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Shreya187&label=Profile%20Views&color=7AB3F5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shreya187&color=7AB3F5&style=for-the-badge" /> 
 
 </p>
 
