@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Shreya187&label=Profile%20Views&color=7AB3F5&style=for-the-badge" />
+
+</p>
+
+<p align="center">
   <img src="./readme-assets/orbit-flip.gif" width="320" />
 </p>
 
