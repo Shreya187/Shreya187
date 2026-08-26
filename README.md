@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme-assets/typing.gif" width="560" />
+  <img src="./readme-assests/typing.gif" width="560" />
 </p>
 
 <p align="center">
