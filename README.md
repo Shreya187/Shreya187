@@ -1,7 +1,7 @@
 <p align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1500&color=7AB3F5&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shreya" />
-
+</p>
 <p align="center">
 
   Turning ideas into interfaces, one component at a time.
@@ -30,7 +30,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| **12 repos**<br>and counting | **2 hackathons**<br>SIH and SBH | **8.86 CGPA**<br>CSE, RCCIIT |
+| **12 repos**<br>and counting | **3+ projects**<br>built & deployed | **8.86 CGPA**<br>CSE, RCCIIT |
 
 ---
 
