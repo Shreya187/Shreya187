@@ -1,8 +1,6 @@
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1500&color=7AB3F5&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shreya;Frontend+developer;React+%2B+Next.js+dev" />
-
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1500&color=7AB3F5&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shreya" />
 
 <p align="center">
 
