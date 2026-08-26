@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./readme-assets/orbit-flip.gif" width="320" />
+  <img src="./readme-assests/orbit-flip.gif" width="320" />
 </p>
 
 <p align="center">
