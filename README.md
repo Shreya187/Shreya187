@@ -28,7 +28,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| **12 repos**<br>and counting | **3+ projects**<br>built & deployed | **8.86 CGPA**<br>CSE, RCCIIT |
+| **7 repos**<br>and counting | **3+ projects**<br>built & deployed | **8.86 CGPA**<br>CSE, RCCIIT |
 
 ---
 
